@@ -152,25 +152,35 @@ For the frozen commit, 18 new event windows, 43 pseudonymised messages and 35 ma
 12 FAIL. Offline re-scoring of 246 hashes and 54 cases matched.
 Alongside instruction/actor and context-loss errors, annotation disputes also appear; the gold labels were not changed.
 Cases, expectations and selection ledger (privacy-modified public copy): [held-out set](data/benchmarks/viber-holdout-v1/REVIEW.md), [note on the modifications](data/benchmarks/viber-holdout-v1/PUBLIC-COPY-NOTE.md).
+**What the public copy supports:** inspecting the 18 cases, the expectations written before the runs and the selection ledger.
+**What it does not support:** independent re-scoring of the three runs. The saved model responses of those runs are not part of
+this repository, so the 6/18, 5/18, 5/18 results cannot be recomputed from the published files.
 **These 18 cases are now development data.** A new freeze and a new held-out set are needed for any future claim.
 Targeted fix after the run: [reference contract V2](docs/viber-reference-contract-v2.md).
 
 ## 3. Separating behaviour change, evaluator change and run-to-run variation (recorded 14 November 2026)
 
+The runs behind this section took place on 10–11 September 2026 on the earlier 20-case benchmark (`konti-viber-v1`),
+with `gpt-4.1-mini`, temperature 0, on staging. The three reports are published in privacy-modified form (see [reports](reports/README.md)).
+
 **Case 1 — evaluator error.** The baseline report raised 19/19 critical flags, with documented false evaluations of
 actor, sequence and condition. After the evaluator fix, the re-measurement had 20/20 scorable cases, 0 critical,
 50.63 points, against 40.84 earlier. **This difference is not a pure evaluator effect:** fresh model responses and a
 schema-matching fix were also involved.
-Reports: [baseline report](reports/), [fix report](reports/).
+Reports: [baseline report](reports/2026-09-10-baseline-7398002.md), [fix report](reports/2026-09-11-postfix-975e45a9.md).
 
 **Case 2 — variation.** Seven runs × 20 cases with an unchanged evaluator and model alias: 45.70–51.45 points,
-mean 48.77, sample standard deviation 2.22 points; the 50.63 above is the first of these runs. One case lost a
-critical condition in two of the seven runs. There is no backend fingerprint, so a backend, numerical or stochastic
+mean 48.77, sample standard deviation 2.22 points; the 50.63 above is the first of these runs. One case (VBR-15) was flagged critical in two of
+the seven runs: the condition text was kept in all seven, but in those two runs the task it refers to was missing
+from the subject references, which the scorer treats as incomplete condition preservation. There is no backend fingerprint, so a backend, numerical or stochastic
 origin of the variation cannot be separated.
-Report: [seven-run report](reports/).
+Report: [seven-run report](reports/2026-09-11-baseline-variability-975e45a9.md). It includes the structured output
+fields of every run (merged into identical variants, with the natural-language summaries omitted), so the case-level
+differences can be inspected; it is not a complete raw-response archive.
 
-**Evidence boundary:** these are retrievable historical reports, not independently reconstructed raw runs now.
-A hash in a report does not on its own replace the original file.
+**Evidence boundary:** these are historical reports, not independently reconstructed raw runs. The raw JSON reports
+were written to an ephemeral staging filesystem and are no longer available; the hashes in the reports refer to those
+original JSON files. A hash in a report does not on its own replace the original file.
 
 **Research question that came out of this:** how can a change in behaviour, a change in the evaluator and run-to-run
 variation be separated? No improvement relative to the noise band is claimed as verified.
