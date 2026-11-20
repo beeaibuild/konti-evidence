@@ -1,0 +1,39 @@
+{
+  "status": "PASS",
+  "validationOnly": true,
+  "providerCalls": 0,
+  "networkFetchForbidden": true,
+  "freezeCommit": "59b33772012fc0ed999a340835ad8a249a93b3c6",
+  "freezeHash": "08dc6d746012fb5c47ecd6ea83efc8faa5c9e7c2725140ffeb05bbf2cffad824",
+  "frozenFilesVerified": 25,
+  "definitionHash": "3620ccda43b437776c54dd242b85ba0f33dfddf797ce5a848800967610f39c9c",
+  "caseCount": 18,
+  "messageCount": 43,
+  "strata": {
+    "OTHER": 9,
+    "PAYMENT": 2,
+    "PRONOUN": 3,
+    "INFINITIVE": 3,
+    "STATUS": 1
+  },
+  "days": {
+    "D+0": 5,
+    "D+3": 7,
+    "D+4": 4,
+    "D+5": 2
+  },
+  "primarySenders": {
+    "Gergő": 4,
+    "Zoli": 3,
+    "Diszpecser": 8,
+    "Robi": 3
+  },
+  "manualCriteria": 35,
+  "limitation": "Schema, privacy-filter and byte-integrity validation only; no model accuracy or independent-event provenance certification.",
+  "sourceLedgerCoverage": "139/139",
+  "selectedWindowsNonOverlapping": true,
+  "knownIdentifiersScan": "PASS",
+  "archivePaths": "POSIX forward slashes",
+  "manualReview": "PENDING",
+  "ownerEventIndependenceConfirmation": "PENDING"
+}

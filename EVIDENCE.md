@@ -151,6 +151,7 @@ For the frozen commit, 18 new event windows, 43 pseudonymised messages and 35 ma
 **Result:** 3 × 18 real responses, automatic 6/18, 5/18, 5/18; with the fixed rubric 4 stable, 2 fluctuating,
 12 FAIL. Offline re-scoring of 246 hashes and 54 cases matched.
 Alongside instruction/actor and context-loss errors, annotation disputes also appear; the gold labels were not changed.
+Cases, expectations and selection ledger (privacy-modified public copy): [held-out set](data/benchmarks/viber-holdout-v1/REVIEW.md), [note on the modifications](data/benchmarks/viber-holdout-v1/PUBLIC-COPY-NOTE.md).
 **These 18 cases are now development data.** A new freeze and a new held-out set are needed for any future claim.
 Targeted fix after the run: [reference contract V2](docs/viber-reference-contract-v2.md).
 

@@ -1,0 +1,2561 @@
+{
+  "format": "konti-viber-holdout-source-ledger-v1",
+  "createdAt": "2026-11-08T10:14:14.626Z",
+  "sourceFilename": "Beillesztett markdown.md",
+  "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+  "recordCount": 139,
+  "offsetConvention": "zero-based, half-open; UTF-8 byte ranges refer to untouched raw source",
+  "records": [
+    {
+      "caseId": "H01",
+      "messageId": "H01_m001",
+      "sourceOrdinal": 1,
+      "day": "D+0",
+      "senderAlias": "Gergő",
+      "sourceAccountGroup": "Gergő",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        0,
+        70
+      ],
+      "utf8ByteRange": [
+        0,
+        78
+      ],
+      "lineStart": 1,
+      "redactions": []
+    },
+    {
+      "caseId": "H02",
+      "messageId": "H02_m002",
+      "sourceOrdinal": 2,
+      "day": "D+0",
+      "senderAlias": "Zoli",
+      "sourceAccountGroup": "Zoli",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        70,
+        141
+      ],
+      "utf8ByteRange": [
+        78,
+        159
+      ],
+      "lineStart": 3,
+      "redactions": []
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 3,
+      "day": "D+0",
+      "senderAlias": "UnverifiedSource",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        141,
+        217
+      ],
+      "utf8ByteRange": [
+        159,
+        243
+      ],
+      "lineStart": 5,
+      "exclusionReason": "UNKNOWN_SOURCE_ROLE: szerző szerepe nem igazolt; nincs önkényes DRIVER/OPERATOR besorolás."
+    },
+    {
+      "caseId": "H03",
+      "messageId": "H03_m004",
+      "sourceOrdinal": 4,
+      "day": "D+0",
+      "senderAlias": "Gergő",
+      "sourceAccountGroup": "Gergő",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        217,
+        295
+      ],
+      "utf8ByteRange": [
+        243,
+        329
+      ],
+      "lineStart": 7,
+      "redactions": []
+    },
+    {
+      "caseId": "H03",
+      "messageId": "H03_m005",
+      "sourceOrdinal": 5,
+      "day": "D+0",
+      "senderAlias": "Gergő",
+      "sourceAccountGroup": "Gergő",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        295,
+        358
+      ],
+      "utf8ByteRange": [
+        329,
+        399
+      ],
+      "lineStart": 9,
+      "redactions": []
+    },
+    {
+      "caseId": "H03",
+      "messageId": "H03_m006",
+      "sourceOrdinal": 6,
+      "day": "D+0",
+      "senderAlias": "Gergő",
+      "sourceAccountGroup": "Gergő",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        358,
+        422
+      ],
+      "utf8ByteRange": [
+        399,
+        474
+      ],
+      "lineStart": 11,
+      "redactions": []
+    },
+    {
+      "caseId": "H04",
+      "messageId": "H04_m007",
+      "sourceOrdinal": 7,
+      "day": "D+0",
+      "senderAlias": "Zoli",
+      "sourceAccountGroup": "Zoli",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        422,
+        488
+      ],
+      "utf8ByteRange": [
+        474,
+        548
+      ],
+      "lineStart": 13,
+      "redactions": []
+    },
+    {
+      "caseId": "H05",
+      "messageId": "H05_m008",
+      "sourceOrdinal": 8,
+      "day": "D+0",
+      "senderAlias": "Diszpecser",
+      "sourceAccountGroup": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        488,
+        630
+      ],
+      "utf8ByteRange": [
+        548,
+        708
+      ],
+      "lineStart": 15,
+      "redactions": []
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 9,
+      "day": "D+1",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        630,
+        712
+      ],
+      "utf8ByteRange": [
+        708,
+        797
+      ],
+      "lineStart": 17,
+      "exclusionReason": "WEEKEND: a fagyasztott protokoll munkanapokat ír elő."
+    },
+    {
+      "caseId": "H06",
+      "messageId": "H06_m010",
+      "sourceOrdinal": 10,
+      "day": "D+3",
+      "senderAlias": "Robi",
+      "sourceAccountGroup": "Robi",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        712,
+        791
+      ],
+      "utf8ByteRange": [
+        797,
+        885
+      ],
+      "lineStart": 19,
+      "redactions": []
+    },
+    {
+      "caseId": "H06",
+      "messageId": "H06_m011",
+      "sourceOrdinal": 11,
+      "day": "D+3",
+      "senderAlias": "Gergő",
+      "sourceAccountGroup": "Gergő",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        791,
+        931
+      ],
+      "utf8ByteRange": [
+        885,
+        1041
+      ],
+      "lineStart": 21,
+      "redactions": []
+    },
+    {
+      "caseId": "H07",
+      "messageId": "H07_m012",
+      "sourceOrdinal": 12,
+      "day": "D+3",
+      "senderAlias": "Gergő",
+      "sourceAccountGroup": "Gergő",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        931,
+        1010
+      ],
+      "utf8ByteRange": [
+        1041,
+        1129
+      ],
+      "lineStart": 23,
+      "redactions": []
+    },
+    {
+      "caseId": "H07",
+      "messageId": "H07_m013",
+      "sourceOrdinal": 13,
+      "day": "D+3",
+      "senderAlias": "Robi",
+      "sourceAccountGroup": "Robi",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        1010,
+        1076
+      ],
+      "utf8ByteRange": [
+        1129,
+        1204
+      ],
+      "lineStart": 25,
+      "redactions": []
+    },
+    {
+      "caseId": "H08",
+      "messageId": "H08_m014",
+      "sourceOrdinal": 14,
+      "day": "D+3",
+      "senderAlias": "Diszpecser",
+      "sourceAccountGroup": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        1076,
+        1173
+      ],
+      "utf8ByteRange": [
+        1204,
+        1310
+      ],
+      "lineStart": 27,
+      "redactions": []
+    },
+    {
+      "caseId": "H08",
+      "messageId": "H08_m015",
+      "sourceOrdinal": 15,
+      "day": "D+3",
+      "senderAlias": "Diszpecser",
+      "sourceAccountGroup": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        1173,
+        1253
+      ],
+      "utf8ByteRange": [
+        1310,
+        1398
+      ],
+      "lineStart": 27,
+      "redactions": []
+    },
+    {
+      "caseId": "H08",
+      "messageId": "H08_m016",
+      "sourceOrdinal": 16,
+      "day": "D+3",
+      "senderAlias": "Zoli",
+      "sourceAccountGroup": "Zoli",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        1253,
+        1326
+      ],
+      "utf8ByteRange": [
+        1398,
+        1479
+      ],
+      "lineStart": 29,
+      "redactions": []
+    },
+    {
+      "caseId": "H08",
+      "messageId": "H08_m017",
+      "sourceOrdinal": 17,
+      "day": "D+3",
+      "senderAlias": "Gergő",
+      "sourceAccountGroup": "Gergő",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        1326,
+        1428
+      ],
+      "utf8ByteRange": [
+        1479,
+        1588
+      ],
+      "lineStart": 31,
+      "redactions": []
+    },
+    {
+      "caseId": "H08",
+      "messageId": "H08_m018",
+      "sourceOrdinal": 18,
+      "day": "D+3",
+      "senderAlias": "Diszpecser",
+      "sourceAccountGroup": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        1428,
+        1516
+      ],
+      "utf8ByteRange": [
+        1588,
+        1685
+      ],
+      "lineStart": 33,
+      "redactions": []
+    },
+    {
+      "caseId": "H08",
+      "messageId": "H08_m019",
+      "sourceOrdinal": 19,
+      "day": "D+3",
+      "senderAlias": "Diszpecser",
+      "sourceAccountGroup": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        1516,
+        1578
+      ],
+      "utf8ByteRange": [
+        1685,
+        1755
+      ],
+      "lineStart": 35,
+      "redactions": []
+    },
+    {
+      "caseId": "H08",
+      "messageId": "H08_m020",
+      "sourceOrdinal": 20,
+      "day": "D+3",
+      "senderAlias": "Diszpecser",
+      "sourceAccountGroup": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        1578,
+        1655
+      ],
+      "utf8ByteRange": [
+        1755,
+        1844
+      ],
+      "lineStart": 37,
+      "redactions": []
+    },
+    {
+      "caseId": "H08",
+      "messageId": "H08_m021",
+      "sourceOrdinal": 21,
+      "day": "D+3",
+      "senderAlias": "Zoli",
+      "sourceAccountGroup": "Zoli",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        1655,
+        1736
+      ],
+      "utf8ByteRange": [
+        1844,
+        1934
+      ],
+      "lineStart": 39,
+      "redactions": []
+    },
+    {
+      "caseId": "H08",
+      "messageId": "H08_m022",
+      "sourceOrdinal": 22,
+      "day": "D+3",
+      "senderAlias": "Robi",
+      "sourceAccountGroup": "Robi",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        1736,
+        1819
+      ],
+      "utf8ByteRange": [
+        1934,
+        2026
+      ],
+      "lineStart": 41,
+      "redactions": []
+    },
+    {
+      "caseId": "H08",
+      "messageId": "H08_m023",
+      "sourceOrdinal": 23,
+      "day": "D+3",
+      "senderAlias": "Zoli",
+      "sourceAccountGroup": "Zoli",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        1819,
+        1897
+      ],
+      "utf8ByteRange": [
+        2026,
+        2113
+      ],
+      "lineStart": 43,
+      "redactions": []
+    },
+    {
+      "caseId": "H09",
+      "messageId": "H09_m024",
+      "sourceOrdinal": 24,
+      "day": "D+3",
+      "senderAlias": "Diszpecser",
+      "sourceAccountGroup": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        1897,
+        2040
+      ],
+      "utf8ByteRange": [
+        2113,
+        2269
+      ],
+      "lineStart": 45,
+      "redactions": []
+    },
+    {
+      "caseId": "H09",
+      "messageId": "H09_m025",
+      "sourceOrdinal": 25,
+      "day": "D+3",
+      "senderAlias": "Diszpecser",
+      "sourceAccountGroup": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        2040,
+        2111
+      ],
+      "utf8ByteRange": [
+        2269,
+        2348
+      ],
+      "lineStart": 49,
+      "redactions": [
+        "telephone removed"
+      ]
+    },
+    {
+      "caseId": "H10",
+      "messageId": "H10_m026",
+      "sourceOrdinal": 26,
+      "day": "D+3",
+      "senderAlias": "Diszpecser",
+      "sourceAccountGroup": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        2111,
+        2203
+      ],
+      "utf8ByteRange": [
+        2348,
+        2450
+      ],
+      "lineStart": 51,
+      "redactions": []
+    },
+    {
+      "caseId": "H10",
+      "messageId": "H10_m027",
+      "sourceOrdinal": 27,
+      "day": "D+3",
+      "senderAlias": "Diszpecser",
+      "sourceAccountGroup": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        2203,
+        2265
+      ],
+      "utf8ByteRange": [
+        2450,
+        2520
+      ],
+      "lineStart": 53,
+      "redactions": []
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 28,
+      "day": "D+3",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        2265,
+        2334
+      ],
+      "utf8ByteRange": [
+        2520,
+        2596
+      ],
+      "lineStart": 55,
+      "exclusionReason": "MEDIA_ONLY: a szöveges futtató nem kap képtartalmat vagy matricát."
+    },
+    {
+      "caseId": "H11",
+      "messageId": "H11_m029",
+      "sourceOrdinal": 29,
+      "day": "D+3",
+      "senderAlias": "Diszpecser",
+      "sourceAccountGroup": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        2334,
+        2404
+      ],
+      "utf8ByteRange": [
+        2596,
+        2674
+      ],
+      "lineStart": 57,
+      "redactions": []
+    },
+    {
+      "caseId": "H12",
+      "messageId": "H12_m030",
+      "sourceOrdinal": 30,
+      "day": "D+3",
+      "senderAlias": "Gergő",
+      "sourceAccountGroup": "Gergő",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        2404,
+        2485
+      ],
+      "utf8ByteRange": [
+        2674,
+        2763
+      ],
+      "lineStart": 59,
+      "redactions": []
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 31,
+      "day": "D+3",
+      "senderAlias": "Gergő",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        2485,
+        2555
+      ],
+      "utf8ByteRange": [
+        2763,
+        2841
+      ],
+      "lineStart": 61,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 32,
+      "day": "D+3",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        2555,
+        2737
+      ],
+      "utf8ByteRange": [
+        2841,
+        3040
+      ],
+      "lineStart": 63,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 33,
+      "day": "D+3",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        2737,
+        2812
+      ],
+      "utf8ByteRange": [
+        3040,
+        3125
+      ],
+      "lineStart": 65,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 34,
+      "day": "D+3",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        2812,
+        2873
+      ],
+      "utf8ByteRange": [
+        3125,
+        3197
+      ],
+      "lineStart": 67,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 35,
+      "day": "D+3",
+      "senderAlias": "Robi",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        2873,
+        3039
+      ],
+      "utf8ByteRange": [
+        3197,
+        3374
+      ],
+      "lineStart": 69,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 36,
+      "day": "D+3",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        3039,
+        3139
+      ],
+      "utf8ByteRange": [
+        3374,
+        3484
+      ],
+      "lineStart": 73,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 37,
+      "day": "D+3",
+      "senderAlias": "UnverifiedSource",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        3139,
+        3224
+      ],
+      "utf8ByteRange": [
+        3484,
+        3576
+      ],
+      "lineStart": 75,
+      "exclusionReason": "UNKNOWN_SOURCE_ROLE: szerző szerepe nem igazolt; nincs önkényes DRIVER/OPERATOR besorolás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 38,
+      "day": "D+3",
+      "senderAlias": "UnverifiedSource",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        3224,
+        3305
+      ],
+      "utf8ByteRange": [
+        3576,
+        3665
+      ],
+      "lineStart": 77,
+      "exclusionReason": "UNKNOWN_SOURCE_ROLE: szerző szerepe nem igazolt; nincs önkényes DRIVER/OPERATOR besorolás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 39,
+      "day": "D+3",
+      "senderAlias": "UnverifiedSource",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        3305,
+        3375
+      ],
+      "utf8ByteRange": [
+        3665,
+        3743
+      ],
+      "lineStart": 79,
+      "exclusionReason": "UNKNOWN_SOURCE_ROLE: szerző szerepe nem igazolt; nincs önkényes DRIVER/OPERATOR besorolás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 40,
+      "day": "D+3",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        3375,
+        3446
+      ],
+      "utf8ByteRange": [
+        3743,
+        3821
+      ],
+      "lineStart": 79,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 41,
+      "day": "D+4",
+      "senderAlias": "Gergő",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        3446,
+        3524
+      ],
+      "utf8ByteRange": [
+        3821,
+        3906
+      ],
+      "lineStart": 81,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 42,
+      "day": "D+4",
+      "senderAlias": "Robi",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        3524,
+        3628
+      ],
+      "utf8ByteRange": [
+        3906,
+        4019
+      ],
+      "lineStart": 83,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 43,
+      "day": "D+4",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        3628,
+        3715
+      ],
+      "utf8ByteRange": [
+        4019,
+        4112
+      ],
+      "lineStart": 87,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": "H13",
+      "messageId": "H13_m044",
+      "sourceOrdinal": 44,
+      "day": "D+4",
+      "senderAlias": "Diszpecser",
+      "sourceAccountGroup": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        3715,
+        3798
+      ],
+      "utf8ByteRange": [
+        4112,
+        4202
+      ],
+      "lineStart": 89,
+      "redactions": []
+    },
+    {
+      "caseId": "H14",
+      "messageId": "H14_m045",
+      "sourceOrdinal": 45,
+      "day": "D+4",
+      "senderAlias": "Diszpecser",
+      "sourceAccountGroup": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        3798,
+        3885
+      ],
+      "utf8ByteRange": [
+        4202,
+        4297
+      ],
+      "lineStart": 91,
+      "redactions": []
+    },
+    {
+      "caseId": "H15",
+      "messageId": "H15_m046",
+      "sourceOrdinal": 46,
+      "day": "D+4",
+      "senderAlias": "Robi",
+      "sourceAccountGroup": "Robi",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        3885,
+        3963
+      ],
+      "utf8ByteRange": [
+        4297,
+        4383
+      ],
+      "lineStart": 93,
+      "redactions": []
+    },
+    {
+      "caseId": "H15",
+      "messageId": "H15_m047",
+      "sourceOrdinal": 47,
+      "day": "D+4",
+      "senderAlias": "Robi",
+      "sourceAccountGroup": "Robi",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        3963,
+        4052
+      ],
+      "utf8ByteRange": [
+        4383,
+        4480
+      ],
+      "lineStart": 95,
+      "redactions": []
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 48,
+      "day": "D+4",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        4052,
+        4152
+      ],
+      "utf8ByteRange": [
+        4480,
+        4586
+      ],
+      "lineStart": 97,
+      "exclusionReason": "INSUFFICIENT_CONTEXT: a térképlink és a hibás Nemnez mondat referense nem rekonstruálható megbízhatóan; főnévi igenévi kvóta egyébként már betelt."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 49,
+      "day": "D+4",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        4152,
+        4217
+      ],
+      "utf8ByteRange": [
+        4586,
+        4657
+      ],
+      "lineStart": 99,
+      "exclusionReason": "INSUFFICIENT_CONTEXT: a térképlink és a hibás Nemnez mondat referense nem rekonstruálható megbízhatóan; főnévi igenévi kvóta egyébként már betelt."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 50,
+      "day": "D+4",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        4217,
+        4287
+      ],
+      "utf8ByteRange": [
+        4657,
+        4733
+      ],
+      "lineStart": 101,
+      "exclusionReason": "INSUFFICIENT_CONTEXT: a térképlink és a hibás Nemnez mondat referense nem rekonstruálható megbízhatóan; főnévi igenévi kvóta egyébként már betelt."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 51,
+      "day": "D+4",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        4287,
+        4368
+      ],
+      "utf8ByteRange": [
+        4733,
+        4821
+      ],
+      "lineStart": 103,
+      "exclusionReason": "INSUFFICIENT_CONTEXT: a térképlink és a hibás Nemnez mondat referense nem rekonstruálható megbízhatóan; főnévi igenévi kvóta egyébként már betelt."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 52,
+      "day": "D+4",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        4368,
+        4427
+      ],
+      "utf8ByteRange": [
+        4821,
+        4886
+      ],
+      "lineStart": 105,
+      "exclusionReason": "INSUFFICIENT_CONTEXT: a térképlink és a hibás Nemnez mondat referense nem rekonstruálható megbízhatóan; főnévi igenévi kvóta egyébként már betelt."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 53,
+      "day": "D+4",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        4427,
+        4494
+      ],
+      "utf8ByteRange": [
+        4886,
+        4961
+      ],
+      "lineStart": 107,
+      "exclusionReason": "MEDIA_ONLY: a szöveges futtató nem kap képtartalmat vagy matricát."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 54,
+      "day": "D+4",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        4494,
+        4596
+      ],
+      "utf8ByteRange": [
+        4961,
+        5072
+      ],
+      "lineStart": 109,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 55,
+      "day": "D+4",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        4596,
+        4693
+      ],
+      "utf8ByteRange": [
+        5072,
+        5178
+      ],
+      "lineStart": 111,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 56,
+      "day": "D+4",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        4693,
+        4761
+      ],
+      "utf8ByteRange": [
+        5178,
+        5254
+      ],
+      "lineStart": 113,
+      "exclusionReason": "MEDIA_ONLY: a szöveges futtató nem kap képtartalmat vagy matricát."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 57,
+      "day": "D+4",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        4761,
+        4829
+      ],
+      "utf8ByteRange": [
+        5254,
+        5330
+      ],
+      "lineStart": 115,
+      "exclusionReason": "MEDIA_ONLY: a szöveges futtató nem kap képtartalmat vagy matricát."
+    },
+    {
+      "caseId": "H16",
+      "messageId": "H16_m058",
+      "sourceOrdinal": 58,
+      "day": "D+4",
+      "senderAlias": "Diszpecser",
+      "sourceAccountGroup": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        4829,
+        4924
+      ],
+      "utf8ByteRange": [
+        5330,
+        5432
+      ],
+      "lineStart": 117,
+      "redactions": []
+    },
+    {
+      "caseId": "H16",
+      "messageId": "H16_m059",
+      "sourceOrdinal": 59,
+      "day": "D+4",
+      "senderAlias": "Robi",
+      "sourceAccountGroup": "Robi",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        4924,
+        4993
+      ],
+      "utf8ByteRange": [
+        5432,
+        5511
+      ],
+      "lineStart": 121,
+      "redactions": []
+    },
+    {
+      "caseId": "H16",
+      "messageId": "H16_m060",
+      "sourceOrdinal": 60,
+      "day": "D+4",
+      "senderAlias": "Gergő",
+      "sourceAccountGroup": "Gergő",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        4993,
+        5054
+      ],
+      "utf8ByteRange": [
+        5511,
+        5577
+      ],
+      "lineStart": 123,
+      "redactions": []
+    },
+    {
+      "caseId": "H16",
+      "messageId": "H16_m061",
+      "sourceOrdinal": 61,
+      "day": "D+4",
+      "senderAlias": "Gergő",
+      "sourceAccountGroup": "Gergő",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        5054,
+        5154
+      ],
+      "utf8ByteRange": [
+        5577,
+        5685
+      ],
+      "lineStart": 125,
+      "redactions": []
+    },
+    {
+      "caseId": "H16",
+      "messageId": "H16_m062",
+      "sourceOrdinal": 62,
+      "day": "D+4",
+      "senderAlias": "Zoli",
+      "sourceAccountGroup": "Zoli",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        5154,
+        5252
+      ],
+      "utf8ByteRange": [
+        5685,
+        5793
+      ],
+      "lineStart": 127,
+      "redactions": []
+    },
+    {
+      "caseId": "H16",
+      "messageId": "H16_m063",
+      "sourceOrdinal": 63,
+      "day": "D+4",
+      "senderAlias": "Robi",
+      "sourceAccountGroup": "Robi",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        5252,
+        5329
+      ],
+      "utf8ByteRange": [
+        5793,
+        5885
+      ],
+      "lineStart": 129,
+      "redactions": []
+    },
+    {
+      "caseId": "H16",
+      "messageId": "H16_m064",
+      "sourceOrdinal": 64,
+      "day": "D+4",
+      "senderAlias": "Zoli",
+      "sourceAccountGroup": "Zoli",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        5329,
+        5396
+      ],
+      "utf8ByteRange": [
+        5885,
+        5959
+      ],
+      "lineStart": 131,
+      "redactions": []
+    },
+    {
+      "caseId": "H16",
+      "messageId": "H16_m065",
+      "sourceOrdinal": 65,
+      "day": "D+4",
+      "senderAlias": "Diszpecser",
+      "sourceAccountGroup": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        5396,
+        5473
+      ],
+      "utf8ByteRange": [
+        5959,
+        6042
+      ],
+      "lineStart": 131,
+      "redactions": []
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 66,
+      "day": "D+4",
+      "senderAlias": "Robi",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        5473,
+        5539
+      ],
+      "utf8ByteRange": [
+        6042,
+        6115
+      ],
+      "lineStart": 133,
+      "exclusionReason": "MEDIA_ONLY: a szöveges futtató nem kap képtartalmat vagy matricát."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 67,
+      "day": "D+5",
+      "senderAlias": "Robi",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        5539,
+        5611
+      ],
+      "utf8ByteRange": [
+        6115,
+        6194
+      ],
+      "lineStart": 135,
+      "exclusionReason": "MEDIA_DEPENDENT: a tárgyat vagy pénzügyi hátteret csak kép adná, a text-only inputból nem követelhető meg."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 68,
+      "day": "D+5",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        5611,
+        5680
+      ],
+      "utf8ByteRange": [
+        6194,
+        6271
+      ],
+      "lineStart": 137,
+      "exclusionReason": "MEDIA_ONLY: a szöveges futtató nem kap képtartalmat vagy matricát."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 69,
+      "day": "D+5",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        5680,
+        5745
+      ],
+      "utf8ByteRange": [
+        6271,
+        6342
+      ],
+      "lineStart": 139,
+      "exclusionReason": "MEDIA_DEPENDENT: a tárgyat vagy pénzügyi hátteret csak kép adná, a text-only inputból nem követelhető meg."
+    },
+    {
+      "caseId": "H17",
+      "messageId": "H17_m070",
+      "sourceOrdinal": 70,
+      "day": "D+5",
+      "senderAlias": "Zoli",
+      "sourceAccountGroup": "Zoli",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        5745,
+        5817
+      ],
+      "utf8ByteRange": [
+        6342,
+        6422
+      ],
+      "lineStart": 141,
+      "redactions": []
+    },
+    {
+      "caseId": "H18",
+      "messageId": "H18_m071",
+      "sourceOrdinal": 71,
+      "day": "D+5",
+      "senderAlias": "Diszpecser",
+      "sourceAccountGroup": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        5817,
+        5915
+      ],
+      "utf8ByteRange": [
+        6422,
+        6525
+      ],
+      "lineStart": 143,
+      "redactions": []
+    },
+    {
+      "caseId": "H18",
+      "messageId": "H18_m072",
+      "sourceOrdinal": 72,
+      "day": "D+5",
+      "senderAlias": "Diszpecser",
+      "sourceAccountGroup": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        5915,
+        5986
+      ],
+      "utf8ByteRange": [
+        6525,
+        6601
+      ],
+      "lineStart": 145,
+      "redactions": []
+    },
+    {
+      "caseId": "H18",
+      "messageId": "H18_m073",
+      "sourceOrdinal": 73,
+      "day": "D+5",
+      "senderAlias": "Diszpecser",
+      "sourceAccountGroup": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        5986,
+        6047
+      ],
+      "utf8ByteRange": [
+        6601,
+        6667
+      ],
+      "lineStart": 147,
+      "redactions": []
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 74,
+      "day": "D+5",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        6047,
+        6131
+      ],
+      "utf8ByteRange": [
+        6667,
+        6757
+      ],
+      "lineStart": 149,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 75,
+      "day": "D+5",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        6131,
+        6219
+      ],
+      "utf8ByteRange": [
+        6757,
+        6854
+      ],
+      "lineStart": 151,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 76,
+      "day": "D+5",
+      "senderAlias": "Robi",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        6219,
+        6278
+      ],
+      "utf8ByteRange": [
+        6854,
+        6919
+      ],
+      "lineStart": 153,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 77,
+      "day": "D+5",
+      "senderAlias": "Zoli",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        6278,
+        6348
+      ],
+      "utf8ByteRange": [
+        6919,
+        6995
+      ],
+      "lineStart": 155,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 78,
+      "day": "D+5",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        6348,
+        6430
+      ],
+      "utf8ByteRange": [
+        6995,
+        7082
+      ],
+      "lineStart": 157,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 79,
+      "day": "D+5",
+      "senderAlias": "Zoli",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        6430,
+        6497
+      ],
+      "utf8ByteRange": [
+        7082,
+        7155
+      ],
+      "lineStart": 159,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 80,
+      "day": "D+6",
+      "senderAlias": "Robi",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        6497,
+        6584
+      ],
+      "utf8ByteRange": [
+        7155,
+        7253
+      ],
+      "lineStart": 161,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 81,
+      "day": "D+6",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        6584,
+        6667
+      ],
+      "utf8ByteRange": [
+        7253,
+        7346
+      ],
+      "lineStart": 165,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 82,
+      "day": "D+6",
+      "senderAlias": "UnverifiedSource",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        6667,
+        6785
+      ],
+      "utf8ByteRange": [
+        7346,
+        7473
+      ],
+      "lineStart": 167,
+      "exclusionReason": "UNKNOWN_SOURCE_ROLE: szerző szerepe nem igazolt; nincs önkényes DRIVER/OPERATOR besorolás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 83,
+      "day": "D+6",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        6785,
+        6866
+      ],
+      "utf8ByteRange": [
+        7473,
+        7563
+      ],
+      "lineStart": 169,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 84,
+      "day": "D+6",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        6866,
+        6974
+      ],
+      "utf8ByteRange": [
+        7563,
+        7682
+      ],
+      "lineStart": 171,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 85,
+      "day": "D+6",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        6974,
+        7033
+      ],
+      "utf8ByteRange": [
+        7682,
+        7749
+      ],
+      "lineStart": 173,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 86,
+      "day": "D+6",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        7033,
+        7113
+      ],
+      "utf8ByteRange": [
+        7749,
+        7841
+      ],
+      "lineStart": 175,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 87,
+      "day": "D+6",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        7113,
+        7226
+      ],
+      "utf8ByteRange": [
+        7841,
+        7967
+      ],
+      "lineStart": 177,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 88,
+      "day": "D+6",
+      "senderAlias": "Robi",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        7226,
+        7304
+      ],
+      "utf8ByteRange": [
+        7967,
+        8056
+      ],
+      "lineStart": 179,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 89,
+      "day": "D+6",
+      "senderAlias": "Robi",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        7304,
+        7375
+      ],
+      "utf8ByteRange": [
+        8056,
+        8136
+      ],
+      "lineStart": 181,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 90,
+      "day": "D+6",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        7375,
+        7450
+      ],
+      "utf8ByteRange": [
+        8136,
+        8220
+      ],
+      "lineStart": 183,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 91,
+      "day": "D+6",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        7450,
+        7572
+      ],
+      "utf8ByteRange": [
+        8220,
+        8352
+      ],
+      "lineStart": 185,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 92,
+      "day": "D+6",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        7572,
+        7656
+      ],
+      "utf8ByteRange": [
+        8352,
+        8446
+      ],
+      "lineStart": 187,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 93,
+      "day": "D+6",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        7656,
+        7727
+      ],
+      "utf8ByteRange": [
+        8446,
+        8526
+      ],
+      "lineStart": 189,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 94,
+      "day": "D+6",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        7727,
+        7835
+      ],
+      "utf8ByteRange": [
+        8526,
+        8646
+      ],
+      "lineStart": 191,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 95,
+      "day": "D+6",
+      "senderAlias": "Zoli",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        7835,
+        7913
+      ],
+      "utf8ByteRange": [
+        8646,
+        8736
+      ],
+      "lineStart": 193,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 96,
+      "day": "D+6",
+      "senderAlias": "Zoli",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        7913,
+        7998
+      ],
+      "utf8ByteRange": [
+        8736,
+        8831
+      ],
+      "lineStart": 195,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 97,
+      "day": "D+6",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        7998,
+        8076
+      ],
+      "utf8ByteRange": [
+        8831,
+        8918
+      ],
+      "lineStart": 197,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 98,
+      "day": "D+6",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        8076,
+        8149
+      ],
+      "utf8ByteRange": [
+        8918,
+        9000
+      ],
+      "lineStart": 199,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 99,
+      "day": "D+6",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        8149,
+        8222
+      ],
+      "utf8ByteRange": [
+        9000,
+        9084
+      ],
+      "lineStart": 201,
+      "exclusionReason": "MEDIA_ONLY: a szöveges futtató nem kap képtartalmat vagy matricát."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 100,
+      "day": "D+6",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        8222,
+        8295
+      ],
+      "utf8ByteRange": [
+        9084,
+        9168
+      ],
+      "lineStart": 203,
+      "exclusionReason": "MEDIA_ONLY: a szöveges futtató nem kap képtartalmat vagy matricát."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 101,
+      "day": "D+6",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        8295,
+        8368
+      ],
+      "utf8ByteRange": [
+        9168,
+        9252
+      ],
+      "lineStart": 205,
+      "exclusionReason": "MEDIA_ONLY: a szöveges futtató nem kap képtartalmat vagy matricát."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 102,
+      "day": "D+6",
+      "senderAlias": "Gergő",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        8368,
+        8456
+      ],
+      "utf8ByteRange": [
+        9252,
+        9351
+      ],
+      "lineStart": 207,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 103,
+      "day": "D+6",
+      "senderAlias": "Gergő",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        8456,
+        8560
+      ],
+      "utf8ByteRange": [
+        9351,
+        9465
+      ],
+      "lineStart": 209,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 104,
+      "day": "D+6",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        8560,
+        8627
+      ],
+      "utf8ByteRange": [
+        9465,
+        9542
+      ],
+      "lineStart": 211,
+      "exclusionReason": "MEDIA_ONLY: a szöveges futtató nem kap képtartalmat vagy matricát."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 105,
+      "day": "D+6",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        8627,
+        8712
+      ],
+      "utf8ByteRange": [
+        9542,
+        9638
+      ],
+      "lineStart": 213,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 106,
+      "day": "D+6",
+      "senderAlias": "Robi",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        8712,
+        8781
+      ],
+      "utf8ByteRange": [
+        9638,
+        9717
+      ],
+      "lineStart": 215,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 107,
+      "day": "D+6",
+      "senderAlias": "Gergő",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        8781,
+        8862
+      ],
+      "utf8ByteRange": [
+        9717,
+        9807
+      ],
+      "lineStart": 217,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 108,
+      "day": "D+6",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        8862,
+        9009
+      ],
+      "utf8ByteRange": [
+        9807,
+        9964
+      ],
+      "lineStart": 219,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 109,
+      "day": "D+6",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        9009,
+        9076
+      ],
+      "utf8ByteRange": [
+        9964,
+        10041
+      ],
+      "lineStart": 221,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 110,
+      "day": "D+7",
+      "senderAlias": "Zoli",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        9076,
+        9151
+      ],
+      "utf8ByteRange": [
+        10041,
+        10126
+      ],
+      "lineStart": 223,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 111,
+      "day": "D+7",
+      "senderAlias": "UnverifiedSource",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        9151,
+        9232
+      ],
+      "utf8ByteRange": [
+        10126,
+        10214
+      ],
+      "lineStart": 225,
+      "exclusionReason": "UNKNOWN_SOURCE_ROLE: szerző szerepe nem igazolt; nincs önkényes DRIVER/OPERATOR besorolás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 112,
+      "day": "D+7",
+      "senderAlias": "Robi",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        9232,
+        9330
+      ],
+      "utf8ByteRange": [
+        10214,
+        10320
+      ],
+      "lineStart": 227,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 113,
+      "day": "D+7",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        9330,
+        9408
+      ],
+      "utf8ByteRange": [
+        10320,
+        10407
+      ],
+      "lineStart": 229,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 114,
+      "day": "D+7",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        9408,
+        9467
+      ],
+      "utf8ByteRange": [
+        10407,
+        10472
+      ],
+      "lineStart": 231,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 115,
+      "day": "D+7",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        9467,
+        9533
+      ],
+      "utf8ByteRange": [
+        10472,
+        10544
+      ],
+      "lineStart": 231,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 116,
+      "day": "D+7",
+      "senderAlias": "Gergő",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        9533,
+        9593
+      ],
+      "utf8ByteRange": [
+        10544,
+        10610
+      ],
+      "lineStart": 233,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 117,
+      "day": "D+7",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        9593,
+        9722
+      ],
+      "utf8ByteRange": [
+        10610,
+        10756
+      ],
+      "lineStart": 235,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 118,
+      "day": "D+7",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        9722,
+        9789
+      ],
+      "utf8ByteRange": [
+        10756,
+        10831
+      ],
+      "lineStart": 237,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 119,
+      "day": "D+7",
+      "senderAlias": "Zoli",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        9789,
+        9887
+      ],
+      "utf8ByteRange": [
+        10831,
+        10938
+      ],
+      "lineStart": 239,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 120,
+      "day": "D+7",
+      "senderAlias": "Zoli",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        9887,
+        9946
+      ],
+      "utf8ByteRange": [
+        10938,
+        11004
+      ],
+      "lineStart": 241,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 121,
+      "day": "D+7",
+      "senderAlias": "Zoli",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        9946,
+        10029
+      ],
+      "utf8ByteRange": [
+        11004,
+        11095
+      ],
+      "lineStart": 243,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 122,
+      "day": "D+7",
+      "senderAlias": "Zoli",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        10029,
+        10100
+      ],
+      "utf8ByteRange": [
+        11095,
+        11174
+      ],
+      "lineStart": 245,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 123,
+      "day": "D+7",
+      "senderAlias": "Zoli",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        10100,
+        10187
+      ],
+      "utf8ByteRange": [
+        11174,
+        11272
+      ],
+      "lineStart": 247,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 124,
+      "day": "D+7",
+      "senderAlias": "Zoli",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        10187,
+        10262
+      ],
+      "utf8ByteRange": [
+        11272,
+        11354
+      ],
+      "lineStart": 249,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 125,
+      "day": "D+7",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        10262,
+        10349
+      ],
+      "utf8ByteRange": [
+        11354,
+        11451
+      ],
+      "lineStart": 251,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 126,
+      "day": "D+7",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        10349,
+        10410
+      ],
+      "utf8ByteRange": [
+        11451,
+        11519
+      ],
+      "lineStart": 253,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 127,
+      "day": "D+7",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        10410,
+        10478
+      ],
+      "utf8ByteRange": [
+        11519,
+        11593
+      ],
+      "lineStart": 255,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 128,
+      "day": "D+7",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        10478,
+        10534
+      ],
+      "utf8ByteRange": [
+        11593,
+        11658
+      ],
+      "lineStart": 257,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 129,
+      "day": "D+7",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        10534,
+        10663
+      ],
+      "utf8ByteRange": [
+        11658,
+        11800
+      ],
+      "lineStart": 259,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 130,
+      "day": "D+7",
+      "senderAlias": "Zoli",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        10663,
+        10732
+      ],
+      "utf8ByteRange": [
+        11800,
+        11876
+      ],
+      "lineStart": 261,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 131,
+      "day": "D+7",
+      "senderAlias": "Robi",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        10732,
+        10806
+      ],
+      "utf8ByteRange": [
+        11876,
+        11957
+      ],
+      "lineStart": 263,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 132,
+      "day": "D+7",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        10806,
+        11222
+      ],
+      "utf8ByteRange": [
+        11957,
+        12414
+      ],
+      "lineStart": 265,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 133,
+      "day": "D+7",
+      "senderAlias": "Zoli",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        11222,
+        11326
+      ],
+      "utf8ByteRange": [
+        12414,
+        12528
+      ],
+      "lineStart": 291,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 134,
+      "day": "D+7",
+      "senderAlias": "Robi",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        11326,
+        11429
+      ],
+      "utf8ByteRange": [
+        12528,
+        12644
+      ],
+      "lineStart": 293,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 135,
+      "day": "D+7",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        11429,
+        11527
+      ],
+      "utf8ByteRange": [
+        12644,
+        12749
+      ],
+      "lineStart": 295,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 136,
+      "day": "D+7",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        11527,
+        11657
+      ],
+      "utf8ByteRange": [
+        12749,
+        12892
+      ],
+      "lineStart": 297,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 137,
+      "day": "D+7",
+      "senderAlias": "Robi",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        11657,
+        11740
+      ],
+      "utf8ByteRange": [
+        12892,
+        12987
+      ],
+      "lineStart": 301,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 138,
+      "day": "D+7",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        11740,
+        11836
+      ],
+      "utf8ByteRange": [
+        12987,
+        13092
+      ],
+      "lineStart": 303,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "caseId": null,
+      "sourceOrdinal": 139,
+      "day": "D+7",
+      "senderAlias": "Diszpecser",
+      "sourceSha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+      "charRange": [
+        11836,
+        11897
+      ],
+      "utf8ByteRange": [
+        13092,
+        13160
+      ],
+      "lineStart": 305,
+      "exclusionReason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    }
+  ],
+  "screenshots": [
+    {
+      "filename": "image(20261108-095536).png",
+      "sha256": "ac2b9c371f72880b1503df1cb3902a5a1a457c801782903155985878f5d64239",
+      "use": "source completeness/privacy inspection; no model image input"
+    },
+    {
+      "filename": "image(20261108-095606).png",
+      "sha256": "809b4df855475cac8fec119330b581308e4366ae5e3e705d31014528dc290d07",
+      "use": "source completeness/privacy inspection; no model image input"
+    },
+    {
+      "filename": "image(20261108-095625).png",
+      "sha256": "ed601068d210c9c1ba4d5df25aef41b49441568fab2f8a52f6bb1bee4571bc35",
+      "use": "source completeness/privacy inspection; no model image input"
+    },
+    {
+      "filename": "image(20261108-095649).png",
+      "sha256": "d093e1b76830b30c5f74b07a4a3c6e5020b583c2bebe2307a796670e7430d008",
+      "use": "source completeness/privacy inspection; no model image input"
+    },
+    {
+      "filename": "image(20261108-095710).png",
+      "sha256": "4679eae1f280e39c18465394d81f12b6ef236e0df914e33fcda1042702c7f558",
+      "use": "source completeness/privacy inspection; no model image input"
+    },
+    {
+      "filename": "image(20261108-095728).png",
+      "sha256": "cb07d4f55b8e0958fe569b793b9564683b3ab64ffe36febacee986011fbcac2c",
+      "use": "source completeness/privacy inspection; no model image input"
+    },
+    {
+      "filename": "image(20261108-095746).png",
+      "sha256": "861166ac0f4b399d94db2553b3029d3ad95b92212f0b94f896ee4c301480c3f4",
+      "use": "source completeness/privacy inspection; no model image input"
+    },
+    {
+      "filename": "image(20261108-095805).png",
+      "sha256": "09fa1c32173d905545f14e17ca74c09b77298bfc61f53a5222823ce3e71c2449",
+      "use": "source completeness/privacy inspection; no model image input"
+    },
+    {
+      "filename": "image(20261108-095828).png",
+      "sha256": "f8cea17b3c7614a2e81481df8892a9a4a2b62fd77392ec51d53f4623147a2d2d",
+      "use": "source completeness/privacy inspection; no model image input"
+    },
+    {
+      "filename": "image(20261108-095849).png",
+      "sha256": "af20d1cbc082de67c1f926be48c2a3163087d1ada6de8660e5cfb327c8727ac0",
+      "use": "source completeness/privacy inspection; no model image input"
+    },
+    {
+      "filename": "image(20261108-095907).png",
+      "sha256": "60c98a2fa0a3e6e536079603bd3917a8b974a828566dedbc747452839f81fbd9",
+      "use": "source completeness/privacy inspection; no model image input"
+    },
+    {
+      "filename": "image(20261108-095926).png",
+      "sha256": "01bbe944318e76373d30437d0451dadf5fa473180959c3f8a4712634a4147788",
+      "use": "source completeness/privacy inspection; no model image input"
+    },
+    {
+      "filename": "image(20261108-095944).png",
+      "sha256": "9b754a02090348d26f2bfa77c057ff671113a0c1269ee8b0ba5af55935bed0ae",
+      "use": "source completeness/privacy inspection; no model image input"
+    },
+    {
+      "filename": "image(20261108-100001).png",
+      "sha256": "79e53c0026e69fec384d6b8244550cd8f418ee42f683d3a9b4993fa40f0b7a41",
+      "use": "reply provenance only"
+    },
+    {
+      "filename": "image(20261108-100018).png",
+      "sha256": "2bb970aebdd43f543f673debb001454d1b829532d027e2a295f9094b718efd21",
+      "use": "source completeness/privacy inspection; no model image input"
+    }
+  ],
+  "replyEvidence": [
+    {
+      "caseId": "H16",
+      "fromMessageId": "H16_m065",
+      "toMessageId": "H16_m062",
+      "screenshot": "image(20261108-100001).png",
+      "screenshotSha256": "79e53c0026e69fec384d6b8244550cd8f418ee42f683d3a9b4993fa40f0b7a41",
+      "observation": "18:54 visible quote of the 17:16 suggestion; no inferred reply links elsewhere"
+    }
+  ],
+  "privacyNotes": [
+    "Raw source and reverse pseudonym map are excluded.",
+    "Aliases replace names, addresses and companies; street numbers, container serial and transaction amounts are changed, preserving semantic roles and volume/time quantities.",
+    "Original spelling, accents, modality and punctuation are retained except where a pseudonym replaces an identifying span; HTML space entities decoded.",
+    "Multiple dispatcher accounts share one pseudonymous known operator; unverified account is never merged with a driver."
+  ],
+  "selectionNotes": [
+    "Hierarchical primary stratum: infinitive directive, impersonal payment/status, referential context, otherwise OTHER. Context is not counted as an additional case.",
+    "Personal cash-transfer report is OTHER contrast, not impersonal PAYMENT. Personal delays are OTHER, not impersonal STATUS.",
+    "The earlier Megyek én is referential episode is retained as PRONOUN; later Nekem is is excluded after this quota is filled.",
+    "Chronological selection stops independently per quota; one window per operational episode.",
+    "New-event provenance is based on user-supplied fresh week after code freeze; same company and recurring drivers, not independently collected population data. Exact historical-event independence still needs owner confirmation before running."
+  ]
+}

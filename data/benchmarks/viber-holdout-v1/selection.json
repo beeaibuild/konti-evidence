@@ -1,0 +1,1716 @@
+{
+  "format": "konti-viber-holdout-selection-v1",
+  "freezeHash": "08dc6d746012fb5c47ecd6ea83efc8faa5c9e7c2725140ffeb05bbf2cffad824",
+  "selectedAt": "2026-11-08T10:14:14.626Z",
+  "expectationsWrittenAt": "2026-11-08T10:14:14.626Z",
+  "privacyReviewed": true,
+  "exclusions": [
+    {
+      "locator": "timestamp-record:3",
+      "reason": "UNKNOWN_SOURCE_ROLE: szerző szerepe nem igazolt; nincs önkényes DRIVER/OPERATOR besorolás."
+    },
+    {
+      "locator": "timestamp-record:9",
+      "reason": "WEEKEND: a fagyasztott protokoll munkanapokat ír elő."
+    },
+    {
+      "locator": "timestamp-record:28",
+      "reason": "MEDIA_ONLY: a szöveges futtató nem kap képtartalmat vagy matricát."
+    },
+    {
+      "locator": "timestamp-record:31",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:32",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:33",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:34",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:35",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:36",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:37",
+      "reason": "UNKNOWN_SOURCE_ROLE: szerző szerepe nem igazolt; nincs önkényes DRIVER/OPERATOR besorolás."
+    },
+    {
+      "locator": "timestamp-record:38",
+      "reason": "UNKNOWN_SOURCE_ROLE: szerző szerepe nem igazolt; nincs önkényes DRIVER/OPERATOR besorolás."
+    },
+    {
+      "locator": "timestamp-record:39",
+      "reason": "UNKNOWN_SOURCE_ROLE: szerző szerepe nem igazolt; nincs önkényes DRIVER/OPERATOR besorolás."
+    },
+    {
+      "locator": "timestamp-record:40",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:41",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:42",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:43",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:48",
+      "reason": "INSUFFICIENT_CONTEXT: a térképlink és a hibás Nemnez mondat referense nem rekonstruálható megbízhatóan; főnévi igenévi kvóta egyébként már betelt."
+    },
+    {
+      "locator": "timestamp-record:49",
+      "reason": "INSUFFICIENT_CONTEXT: a térképlink és a hibás Nemnez mondat referense nem rekonstruálható megbízhatóan; főnévi igenévi kvóta egyébként már betelt."
+    },
+    {
+      "locator": "timestamp-record:50",
+      "reason": "INSUFFICIENT_CONTEXT: a térképlink és a hibás Nemnez mondat referense nem rekonstruálható megbízhatóan; főnévi igenévi kvóta egyébként már betelt."
+    },
+    {
+      "locator": "timestamp-record:51",
+      "reason": "INSUFFICIENT_CONTEXT: a térképlink és a hibás Nemnez mondat referense nem rekonstruálható megbízhatóan; főnévi igenévi kvóta egyébként már betelt."
+    },
+    {
+      "locator": "timestamp-record:52",
+      "reason": "INSUFFICIENT_CONTEXT: a térképlink és a hibás Nemnez mondat referense nem rekonstruálható megbízhatóan; főnévi igenévi kvóta egyébként már betelt."
+    },
+    {
+      "locator": "timestamp-record:53",
+      "reason": "MEDIA_ONLY: a szöveges futtató nem kap képtartalmat vagy matricát."
+    },
+    {
+      "locator": "timestamp-record:54",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:55",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:56",
+      "reason": "MEDIA_ONLY: a szöveges futtató nem kap képtartalmat vagy matricát."
+    },
+    {
+      "locator": "timestamp-record:57",
+      "reason": "MEDIA_ONLY: a szöveges futtató nem kap képtartalmat vagy matricát."
+    },
+    {
+      "locator": "timestamp-record:66",
+      "reason": "MEDIA_ONLY: a szöveges futtató nem kap képtartalmat vagy matricát."
+    },
+    {
+      "locator": "timestamp-record:67",
+      "reason": "MEDIA_DEPENDENT: a tárgyat vagy pénzügyi hátteret csak kép adná, a text-only inputból nem követelhető meg."
+    },
+    {
+      "locator": "timestamp-record:68",
+      "reason": "MEDIA_ONLY: a szöveges futtató nem kap képtartalmat vagy matricát."
+    },
+    {
+      "locator": "timestamp-record:69",
+      "reason": "MEDIA_DEPENDENT: a tárgyat vagy pénzügyi hátteret csak kép adná, a text-only inputból nem követelhető meg."
+    },
+    {
+      "locator": "timestamp-record:74",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:75",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:76",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:77",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:78",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:79",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:80",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:81",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:82",
+      "reason": "UNKNOWN_SOURCE_ROLE: szerző szerepe nem igazolt; nincs önkényes DRIVER/OPERATOR besorolás."
+    },
+    {
+      "locator": "timestamp-record:83",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:84",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:85",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:86",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:87",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:88",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:89",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:90",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:91",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:92",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:93",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:94",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:95",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:96",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:97",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:98",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:99",
+      "reason": "MEDIA_ONLY: a szöveges futtató nem kap képtartalmat vagy matricát."
+    },
+    {
+      "locator": "timestamp-record:100",
+      "reason": "MEDIA_ONLY: a szöveges futtató nem kap képtartalmat vagy matricát."
+    },
+    {
+      "locator": "timestamp-record:101",
+      "reason": "MEDIA_ONLY: a szöveges futtató nem kap képtartalmat vagy matricát."
+    },
+    {
+      "locator": "timestamp-record:102",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:103",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:104",
+      "reason": "MEDIA_ONLY: a szöveges futtató nem kap képtartalmat vagy matricát."
+    },
+    {
+      "locator": "timestamp-record:105",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:106",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:107",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:108",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:109",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:110",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:111",
+      "reason": "UNKNOWN_SOURCE_ROLE: szerző szerepe nem igazolt; nincs önkényes DRIVER/OPERATOR besorolás."
+    },
+    {
+      "locator": "timestamp-record:112",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:113",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:114",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:115",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:116",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:117",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:118",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:119",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:120",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:121",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:122",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:123",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:124",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:125",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:126",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:127",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:128",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:129",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:130",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:131",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:132",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:133",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:134",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:135",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:136",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:137",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:138",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    },
+    {
+      "locator": "timestamp-record:139",
+      "reason": "QUOTA_FILLED: az adott réteg korábbi, jogosult önálló eseményei betöltötték a kvótát; nincs kimenet szerinti válogatás."
+    }
+  ],
+  "cases": [
+    {
+      "id": "H01",
+      "stratum": "OTHER",
+      "source": {
+        "sha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+        "day": "D+0",
+        "locator": "timestamp-records:1;primary:1",
+        "previouslySeen": false
+      },
+      "primaryMessageId": "H01_m001",
+      "messages": [
+        {
+          "id": "H01_m001",
+          "senderAlias": "Gergő",
+          "senderRole": "DRIVER",
+          "text": "Viszem a horgonyt",
+          "displayTime": "14:19",
+          "replyToMessageId": null
+        }
+      ],
+      "expectations": {
+        "signals": [
+          {
+            "messageId": "H01_m001",
+            "allowed": [
+              "PLAN",
+              "INFORMATION"
+            ],
+            "required": [
+              "PLAN"
+            ]
+          }
+        ],
+        "noActorMessageIds": [],
+        "unresolved": [],
+        "manual": [
+          {
+            "id": "C01",
+            "description": "A saját szállítás folyamatban lévő/tervezett cselekvés, nem befejezett fuvar. A horgony megnevezésből nem található ki ügyfél-, konténer- vagy feladatazonosító."
+          }
+        ]
+      }
+    },
+    {
+      "id": "H02",
+      "stratum": "OTHER",
+      "source": {
+        "sha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+        "day": "D+0",
+        "locator": "timestamp-records:2;primary:2",
+        "previouslySeen": false
+      },
+      "primaryMessageId": "H02_m002",
+      "messages": [
+        {
+          "id": "H02_m002",
+          "senderAlias": "Zoli",
+          "senderRole": "DRIVER",
+          "text": "Szabóért megyek!",
+          "displayTime": "14:28",
+          "replyToMessageId": null
+        }
+      ],
+      "expectations": {
+        "signals": [
+          {
+            "messageId": "H02_m002",
+            "allowed": [
+              "PLAN",
+              "INFORMATION"
+            ],
+            "required": [
+              "PLAN"
+            ]
+          }
+        ],
+        "noActorMessageIds": [],
+        "unresolved": [],
+        "manual": [
+          {
+            "id": "C01",
+            "description": "A küldő indulási szándéka jelenjen meg. A Szabó megnevezés lehet személy vagy hely/partner; típusa, címe és az elvégzendő művelet nem egészíthető ki találgatással."
+          }
+        ]
+      }
+    },
+    {
+      "id": "H03",
+      "stratum": "OTHER",
+      "source": {
+        "sha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+        "day": "D+0",
+        "locator": "timestamp-records:4,5,6;primary:4",
+        "previouslySeen": false
+      },
+      "primaryMessageId": "H03_m004",
+      "messages": [
+        {
+          "id": "H03_m004",
+          "senderAlias": "Gergő",
+          "senderRole": "DRIVER",
+          "text": "Lacikának adtam 76 000-et",
+          "displayTime": "15:49",
+          "replyToMessageId": null
+        },
+        {
+          "id": "H03_m005",
+          "senderAlias": "Gergő",
+          "senderRole": "DRIVER",
+          "text": "Szevasztok",
+          "displayTime": "15:49",
+          "replyToMessageId": null
+        },
+        {
+          "id": "H03_m006",
+          "senderAlias": "Gergő",
+          "senderRole": "DRIVER",
+          "text": "Jó hétvégét",
+          "displayTime": "15:49",
+          "replyToMessageId": null
+        }
+      ],
+      "expectations": {
+        "signals": [
+          {
+            "messageId": "H03_m004",
+            "allowed": [
+              "STATUS_CHANGE_REPORT",
+              "INFORMATION"
+            ],
+            "required": [
+              "STATUS_CHANGE_REPORT"
+            ]
+          },
+          {
+            "messageId": "H03_m005",
+            "allowed": [
+              "NONE"
+            ],
+            "required": [
+              "NONE"
+            ]
+          },
+          {
+            "messageId": "H03_m006",
+            "allowed": [
+              "NONE"
+            ],
+            "required": [
+              "NONE"
+            ]
+          }
+        ],
+        "noActorMessageIds": [],
+        "unresolved": [],
+        "manual": [
+          {
+            "id": "C01",
+            "description": "Explicit személyes átadás: a küldő az átadó, Lacika az említett címzett; Lacika nem azonosítható automatikusan Robi sofőrrel. A 76 000 összeg és a már megtörtént átadás maradjon meg; pénznem nincs kimondva."
+          },
+          {
+            "id": "C02",
+            "description": "A köszönés és a hétvégi elköszönés nem fuvarutasítás, nem rendeléslezárás és nem új pénzügyi tranzakció."
+          }
+        ]
+      }
+    },
+    {
+      "id": "H04",
+      "stratum": "PAYMENT",
+      "source": {
+        "sha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+        "day": "D+0",
+        "locator": "timestamp-records:7;primary:7",
+        "previouslySeen": false
+      },
+      "primaryMessageId": "H04_m007",
+      "messages": [
+        {
+          "id": "H04_m007",
+          "senderAlias": "Zoli",
+          "senderRole": "DRIVER",
+          "text": "285000 Robi.",
+          "displayTime": "15:51",
+          "replyToMessageId": null
+        }
+      ],
+      "expectations": {
+        "signals": [
+          {
+            "messageId": "H04_m007",
+            "allowed": [
+              "INFORMATION"
+            ],
+            "required": [
+              "INFORMATION"
+            ]
+          }
+        ],
+        "noActorMessageIds": [
+          "H04_m007"
+        ],
+        "unresolved": [],
+        "manual": [
+          {
+            "id": "C01",
+            "description": "Személytelen összeg–név közlés: a 285000 és Robi megmarad, de nem állítja, hogy ki fizetett kinek, milyen jogcímen, mikor vagy milyen pénznemben. A küldőből nem lesz automatikusan fizető."
+          },
+          {
+            "id": "C02",
+            "description": "Ez bizonytalan pénzügyi feljegyzés, nem igazolt befizetés és nem rendelés fizetetté állítása."
+          }
+        ]
+      }
+    },
+    {
+      "id": "H05",
+      "stratum": "OTHER",
+      "source": {
+        "sha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+        "day": "D+0",
+        "locator": "timestamp-records:8;primary:8",
+        "previouslySeen": false
+      },
+      "primaryMessageId": "H05_m008",
+      "messages": [
+        {
+          "id": "H05_m008",
+          "senderAlias": "Diszpecser",
+          "senderRole": "OPERATOR",
+          "text": "Mindenki irány haza ha a szállítóleveleket leadtátok csak akkor elszámolást is. 🤗",
+          "displayTime": "16:02",
+          "replyToMessageId": null
+        }
+      ],
+      "expectations": {
+        "signals": [
+          {
+            "messageId": "H05_m008",
+            "allowed": [
+              "INSTRUCTION",
+              "INFORMATION"
+            ],
+            "required": [
+              "INSTRUCTION"
+            ]
+          }
+        ],
+        "noActorMessageIds": [],
+        "unresolved": [],
+        "manual": [
+          {
+            "id": "C01",
+            "description": "A hazamenetelhez a szállítólevelek leadásának feltétele és az elszámolás említése is megmaradjon; a feltétel teljesülése nem tény."
+          },
+          {
+            "id": "C02",
+            "description": "A mindenki csoportos megszólítás nem egy név szerint kitalált sofőr. A küldő nem lesz végrehajtó; sem hazamenetel, sem elszámolás nem tekinthető megtörténtnek."
+          }
+        ]
+      }
+    },
+    {
+      "id": "H06",
+      "stratum": "OTHER",
+      "source": {
+        "sha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+        "day": "D+3",
+        "locator": "timestamp-records:10,11;primary:11",
+        "previouslySeen": false
+      },
+      "primaryMessageId": "H06_m011",
+      "messages": [
+        {
+          "id": "H06_m010",
+          "senderAlias": "Robi",
+          "senderRole": "DRIVER",
+          "text": "Lehet hogy egy picit kések",
+          "displayTime": "06:02",
+          "replyToMessageId": null
+        },
+        {
+          "id": "H06_m011",
+          "senderAlias": "Gergő",
+          "senderRole": "DRIVER",
+          "text": "Én is késni fogok lerobbant egy ismerősöm Remény körúton megyek oda mizu utána jövök be köszi",
+          "displayTime": "06:46",
+          "replyToMessageId": null
+        }
+      ],
+      "expectations": {
+        "signals": [
+          {
+            "messageId": "H06_m010",
+            "allowed": [
+              "PROBLEM_REPORT",
+              "INFORMATION",
+              "PLAN"
+            ],
+            "required": [
+              "PROBLEM_REPORT"
+            ]
+          },
+          {
+            "messageId": "H06_m011",
+            "allowed": [
+              "PROBLEM_REPORT",
+              "PLAN",
+              "INFORMATION"
+            ],
+            "required": [
+              "PROBLEM_REPORT"
+            ]
+          }
+        ],
+        "noActorMessageIds": [],
+        "unresolved": [],
+        "manual": [
+          {
+            "id": "C01",
+            "description": "Két sofőr késésjelzése külön maradjon; az első bizonytalan, kis késést jelez. A második saját késését és előbb egy ismerőséhez történő odamenetelt közli, pontos érkezés nélkül."
+          },
+          {
+            "id": "C02",
+            "description": "Az ismerőshöz kapcsolt lerobbanás nem bizonyít céges teherautóhibát. Ne keletkezzen kitalált járműhiba, időtartam vagy feladat-hozzárendelés."
+          }
+        ]
+      }
+    },
+    {
+      "id": "H07",
+      "stratum": "PRONOUN",
+      "source": {
+        "sha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+        "day": "D+3",
+        "locator": "timestamp-records:12,13;primary:13",
+        "previouslySeen": false
+      },
+      "primaryMessageId": "H07_m013",
+      "messages": [
+        {
+          "id": "H07_m012",
+          "senderAlias": "Gergő",
+          "senderRole": "DRIVER",
+          "text": "Beértem indulok a grófokra",
+          "displayTime": "07:09",
+          "replyToMessageId": null
+        },
+        {
+          "id": "H07_m013",
+          "senderAlias": "Robi",
+          "senderRole": "DRIVER",
+          "text": "Megyek én is.",
+          "displayTime": "07:20",
+          "replyToMessageId": null
+        }
+      ],
+      "expectations": {
+        "signals": [
+          {
+            "messageId": "H07_m012",
+            "allowed": [
+              "PLAN",
+              "STATUS_CHANGE_REPORT",
+              "INFORMATION"
+            ],
+            "required": [
+              "PLAN",
+              "STATUS_CHANGE_REPORT"
+            ]
+          },
+          {
+            "messageId": "H07_m013",
+            "allowed": [
+              "PLAN",
+              "INFORMATION"
+            ],
+            "required": [
+              "PLAN"
+            ]
+          }
+        ],
+        "noActorMessageIds": [],
+        "unresolved": [],
+        "manual": [
+          {
+            "id": "C01",
+            "description": "A Beértem megtörtént érkezés, az indulok saját indulási terv; a kettő nem olvadhat teljesített fuvarrá."
+          },
+          {
+            "id": "C02",
+            "description": "A Megyek én is saját cselekvésre utal. Az én a küldőhöz kötött, de az előző sofőr célhelyének azonossága nem biztos; az is többletét/utalását meg kell őrizni, célhelyet nem szabad bizonyossággá emelni."
+          }
+        ]
+      }
+    },
+    {
+      "id": "H08",
+      "stratum": "INFINITIVE",
+      "source": {
+        "sha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+        "day": "D+3",
+        "locator": "timestamp-records:14,15,16,17,18,19,20,21,22,23;primary:15",
+        "previouslySeen": false
+      },
+      "primaryMessageId": "H08_m015",
+      "messages": [
+        {
+          "id": "H08_m014",
+          "senderAlias": "Diszpecser",
+          "senderRole": "OPERATOR",
+          "text": "Homok utca csere kis kárpitos Plnav  terdex kft",
+          "displayTime": "08:13",
+          "replyToMessageId": null
+        },
+        {
+          "id": "H08_m015",
+          "senderAlias": "Diszpecser",
+          "senderRole": "OPERATOR",
+          "text": "Elhozni s visszavinni",
+          "displayTime": "08:17",
+          "replyToMessageId": null
+        },
+        {
+          "id": "H08_m016",
+          "senderAlias": "Zoli",
+          "senderRole": "DRIVER",
+          "text": "Mi az a kis kárpitos ?",
+          "displayTime": "08:30",
+          "replyToMessageId": null
+        },
+        {
+          "id": "H08_m017",
+          "senderAlias": "Gergő",
+          "senderRole": "DRIVER",
+          "text": "Omega Box hatos van az udvaron kis Kárpitos ott fest",
+          "displayTime": "08:32",
+          "replyToMessageId": null
+        },
+        {
+          "id": "H08_m018",
+          "senderAlias": "Diszpecser",
+          "senderRole": "OPERATOR",
+          "text": "Juharosi út csere mikor megy ki!",
+          "displayTime": "08:37",
+          "replyToMessageId": null
+        },
+        {
+          "id": "H08_m019",
+          "senderAlias": "Diszpecser",
+          "senderRole": "OPERATOR",
+          "text": "8m3",
+          "displayTime": "08:37",
+          "replyToMessageId": null
+        },
+        {
+          "id": "H08_m020",
+          "senderAlias": "Diszpecser",
+          "senderRole": "OPERATOR",
+          "text": "Völgyhát kft szállító",
+          "displayTime": "08:38",
+          "replyToMessageId": null
+        },
+        {
+          "id": "H08_m021",
+          "senderAlias": "Zoli",
+          "senderRole": "DRIVER",
+          "text": "Egyszerre kettő nem megy !!!!",
+          "displayTime": "08:43",
+          "replyToMessageId": null
+        },
+        {
+          "id": "H08_m022",
+          "senderAlias": "Robi",
+          "senderRole": "DRIVER",
+          "text": "Ha borítottam megyek a juharosira",
+          "displayTime": "08:44",
+          "replyToMessageId": null
+        },
+        {
+          "id": "H08_m023",
+          "senderAlias": "Zoli",
+          "senderRole": "DRIVER",
+          "text": "Akkor én megyek a homokba!",
+          "displayTime": "08:44",
+          "replyToMessageId": null
+        }
+      ],
+      "expectations": {
+        "signals": [
+          {
+            "messageId": "H08_m014",
+            "allowed": [
+              "INSTRUCTION",
+              "INFORMATION"
+            ],
+            "required": [
+              "INSTRUCTION"
+            ]
+          },
+          {
+            "messageId": "H08_m015",
+            "allowed": [
+              "INSTRUCTION",
+              "INFORMATION"
+            ],
+            "required": [
+              "INSTRUCTION"
+            ]
+          },
+          {
+            "messageId": "H08_m016",
+            "allowed": [
+              "QUESTION"
+            ],
+            "required": [
+              "QUESTION"
+            ]
+          },
+          {
+            "messageId": "H08_m017",
+            "allowed": [
+              "INFORMATION",
+              "STATUS_CHANGE_REPORT"
+            ],
+            "required": [
+              "INFORMATION"
+            ]
+          },
+          {
+            "messageId": "H08_m018",
+            "allowed": [
+              "QUESTION",
+              "INSTRUCTION",
+              "INFORMATION"
+            ],
+            "required": [
+              "QUESTION"
+            ]
+          },
+          {
+            "messageId": "H08_m019",
+            "allowed": [
+              "INFORMATION"
+            ],
+            "required": [
+              "INFORMATION"
+            ]
+          },
+          {
+            "messageId": "H08_m020",
+            "allowed": [
+              "INFORMATION"
+            ],
+            "required": [
+              "INFORMATION"
+            ]
+          },
+          {
+            "messageId": "H08_m021",
+            "allowed": [
+              "PROBLEM_REPORT",
+              "INFORMATION"
+            ],
+            "required": [
+              "PROBLEM_REPORT"
+            ]
+          },
+          {
+            "messageId": "H08_m022",
+            "allowed": [
+              "PLAN",
+              "INFORMATION"
+            ],
+            "required": [
+              "PLAN"
+            ]
+          },
+          {
+            "messageId": "H08_m023",
+            "allowed": [
+              "PLAN",
+              "INFORMATION"
+            ],
+            "required": [
+              "PLAN"
+            ]
+          }
+        ],
+        "noActorMessageIds": [
+          "H08_m014",
+          "H08_m015",
+          "H08_m018",
+          "H08_m019",
+          "H08_m020"
+        ],
+        "unresolved": [],
+        "manual": [
+          {
+            "id": "C01",
+            "description": "Az Elhozni s visszavinni két műveletű utasítás, név szerint megadott végrehajtó nélkül; nem elkészült szállítás."
+          },
+          {
+            "id": "C02",
+            "description": "A kis kárpitos megnevezés bizonytalanságát és a rá vonatkozó kérdést meg kell őrizni. Az Omega Box hatos és a másik címhez tartozó 8m3 nem olvadhat egyetlen konténerré."
+          },
+          {
+            "id": "C03",
+            "description": "A mikor megy ki kérdés maradjon kérdés. Az Egyszerre kettő nem megy kapacitásprobléma; nem végrehajtási jóváhagyás."
+          },
+          {
+            "id": "C04",
+            "description": "Robi csak a borítás után tervezi a juharosi utat; Zoli saját homoki terve külön szerepeljen. Nincs automatikus üzleti kötés vagy állapotmódosítás."
+          }
+        ]
+      }
+    },
+    {
+      "id": "H09",
+      "stratum": "OTHER",
+      "source": {
+        "sha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+        "day": "D+3",
+        "locator": "timestamp-records:24,25;primary:24",
+        "previouslySeen": false
+      },
+      "primaryMessageId": "H09_m024",
+      "messages": [
+        {
+          "id": "H09_m024",
+          "senderAlias": "Diszpecser",
+          "senderRole": "OPERATOR",
+          "text": "Holnap reggel vinni: \n\nBudapest 14 kerület Szilfa köz 9 kérek egy 8 m3 konténert",
+          "displayTime": "09:48",
+          "replyToMessageId": null
+        },
+        {
+          "id": "H09_m025",
+          "senderAlias": "Diszpecser",
+          "senderRole": "OPERATOR",
+          "text": "[TELEFON TÖRÖLVE]",
+          "displayTime": "09:48",
+          "replyToMessageId": null
+        }
+      ],
+      "expectations": {
+        "signals": [
+          {
+            "messageId": "H09_m024",
+            "allowed": [
+              "INSTRUCTION",
+              "INFORMATION"
+            ],
+            "required": [
+              "INSTRUCTION"
+            ]
+          },
+          {
+            "messageId": "H09_m025",
+            "allowed": [
+              "INFORMATION"
+            ],
+            "required": [
+              "INFORMATION"
+            ]
+          }
+        ],
+        "noActorMessageIds": [
+          "H09_m024",
+          "H09_m025"
+        ],
+        "unresolved": [],
+        "manual": [
+          {
+            "id": "C01",
+            "description": "Holnap reggeli 8 m3-es kivitel, a közölt címre; relatív idő maradjon, abszolút dátum nem ismert a modell számára."
+          },
+          {
+            "id": "C02",
+            "description": "A beágyazott kérek ügyféligény továbbítása lehet: a továbbító nem bizonyított eredeti megrendelő. A törölt telefonból nem szabad új számot vagy ügyfelet létrehozni."
+          }
+        ]
+      }
+    },
+    {
+      "id": "H10",
+      "stratum": "OTHER",
+      "source": {
+        "sha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+        "day": "D+3",
+        "locator": "timestamp-records:26,27;primary:26",
+        "previouslySeen": false
+      },
+      "primaryMessageId": "H10_m026",
+      "messages": [
+        {
+          "id": "H10_m026",
+          "senderAlias": "Diszpecser",
+          "senderRole": "OPERATOR",
+          "text": "15:00 Rét bükkèr utca csere 8m3",
+          "displayTime": "10:38",
+          "replyToMessageId": null
+        },
+        {
+          "id": "H10_m027",
+          "senderAlias": "Diszpecser",
+          "senderRole": "OPERATOR",
+          "text": "Kp",
+          "displayTime": "10:38",
+          "replyToMessageId": null
+        }
+      ],
+      "expectations": {
+        "signals": [
+          {
+            "messageId": "H10_m026",
+            "allowed": [
+              "INSTRUCTION",
+              "INFORMATION"
+            ],
+            "required": [
+              "INSTRUCTION"
+            ]
+          },
+          {
+            "messageId": "H10_m027",
+            "allowed": [
+              "INFORMATION"
+            ],
+            "required": [
+              "INFORMATION"
+            ]
+          }
+        ],
+        "noActorMessageIds": [
+          "H10_m026",
+          "H10_m027"
+        ],
+        "unresolved": [],
+        "manual": [
+          {
+            "id": "C01",
+            "description": "15:00, csere, 8m3 és készpénzes mód együttesen maradjon meg. A Kp nem bizonyít megtörtént fizetést vagy befizetőt."
+          },
+          {
+            "id": "C02",
+            "description": "A név és az utca szöveges feladatleírás, nem ellenőrzött üzleti azonosító vagy sofőr-hozzárendelés. A névszói diszpécserközlés elvárt domináns aktusa INSTRUCTION."
+          }
+        ]
+      }
+    },
+    {
+      "id": "H11",
+      "stratum": "OTHER",
+      "source": {
+        "sha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+        "day": "D+3",
+        "locator": "timestamp-records:29;primary:29",
+        "previouslySeen": false
+      },
+      "primaryMessageId": "H11_m029",
+      "messages": [
+        {
+          "id": "H11_m029",
+          "senderAlias": "Diszpecser",
+          "senderRole": "OPERATOR",
+          "text": "Csempemester csere 4m3",
+          "displayTime": "12:08",
+          "replyToMessageId": null
+        }
+      ],
+      "expectations": {
+        "signals": [
+          {
+            "messageId": "H11_m029",
+            "allowed": [
+              "INSTRUCTION",
+              "INFORMATION"
+            ],
+            "required": [
+              "INSTRUCTION"
+            ]
+          }
+        ],
+        "noActorMessageIds": [
+          "H11_m029"
+        ],
+        "unresolved": [],
+        "manual": [
+          {
+            "id": "C01",
+            "description": "4m3-es csere a Csempemester megnevezéshez kapcsolva; méret és művelet maradjon meg, végrehajtó és kanonikus ügyfél nem ismert. A névszói diszpécserközlés előre rögzített domináns aktusa INSTRUCTION."
+          }
+        ]
+      }
+    },
+    {
+      "id": "H12",
+      "stratum": "OTHER",
+      "source": {
+        "sha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+        "day": "D+3",
+        "locator": "timestamp-records:30;primary:30",
+        "previouslySeen": false
+      },
+      "primaryMessageId": "H12_m030",
+      "messages": [
+        {
+          "id": "H12_m030",
+          "senderAlias": "Gergő",
+          "senderRole": "DRIVER",
+          "text": "Holnap reggel a Diófa csere",
+          "displayTime": "14:58",
+          "replyToMessageId": null
+        }
+      ],
+      "expectations": {
+        "signals": [
+          {
+            "messageId": "H12_m030",
+            "allowed": [
+              "PLAN",
+              "INFORMATION"
+            ],
+            "required": [
+              "PLAN"
+            ]
+          }
+        ],
+        "noActorMessageIds": [],
+        "unresolved": [],
+        "manual": [
+          {
+            "id": "C01",
+            "description": "A sofőr holnap reggeli Diófa-cserét közöl; ez terv, nem már teljesített csere. Sem abszolút naptári dátum, sem ellenőrzött cím/feladatazonosító nem található ki."
+          }
+        ]
+      }
+    },
+    {
+      "id": "H13",
+      "stratum": "INFINITIVE",
+      "source": {
+        "sha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+        "day": "D+4",
+        "locator": "timestamp-records:44;primary:44",
+        "previouslySeen": false
+      },
+      "primaryMessageId": "H13_m044",
+      "messages": [
+        {
+          "id": "H13_m044",
+          "senderAlias": "Diszpecser",
+          "senderRole": "OPERATOR",
+          "text": "Horgony utca 31 elhozni ma",
+          "displayTime": "07:43",
+          "replyToMessageId": null
+        }
+      ],
+      "expectations": {
+        "signals": [
+          {
+            "messageId": "H13_m044",
+            "allowed": [
+              "INSTRUCTION",
+              "INFORMATION"
+            ],
+            "required": [
+              "INSTRUCTION"
+            ]
+          }
+        ],
+        "noActorMessageIds": [
+          "H13_m044"
+        ],
+        "unresolved": [],
+        "manual": [
+          {
+            "id": "C01",
+            "description": "A ma elhozandó egység helye Horgony utca 31. Az elhozni utasítás, nem sofőr saját terve vagy elvégzett feladat. Cselekvő hiányzik, nem ismeretlen slotot kell konstruálni."
+          }
+        ]
+      }
+    },
+    {
+      "id": "H14",
+      "stratum": "INFINITIVE",
+      "source": {
+        "sha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+        "day": "D+4",
+        "locator": "timestamp-records:45;primary:45",
+        "previouslySeen": false
+      },
+      "primaryMessageId": "H14_m045",
+      "messages": [
+        {
+          "id": "H14_m045",
+          "senderAlias": "Diszpecser",
+          "senderRole": "OPERATOR",
+          "text": "Cédrus pál utca platóssal menni",
+          "displayTime": "08:25",
+          "replyToMessageId": null
+        }
+      ],
+      "expectations": {
+        "signals": [
+          {
+            "messageId": "H14_m045",
+            "allowed": [
+              "INSTRUCTION",
+              "INFORMATION"
+            ],
+            "required": [
+              "INSTRUCTION"
+            ]
+          }
+        ],
+        "noActorMessageIds": [
+          "H14_m045"
+        ],
+        "unresolved": [],
+        "manual": [
+          {
+            "id": "C01",
+            "description": "Cédrus pál utcához platós járművel menni: a járműtípus-korlát megmarad, de konkrét jármű és végrehajtó nincs megadva. Nem található ki konténerméret, rakomány vagy befejezés."
+          }
+        ]
+      }
+    },
+    {
+      "id": "H15",
+      "stratum": "STATUS",
+      "source": {
+        "sha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+        "day": "D+4",
+        "locator": "timestamp-records:46,47;primary:47",
+        "previouslySeen": false
+      },
+      "primaryMessageId": "H15_m047",
+      "messages": [
+        {
+          "id": "H15_m046",
+          "senderAlias": "Robi",
+          "senderRole": "DRIVER",
+          "text": "348 as konténer elég gatya",
+          "displayTime": "08:42",
+          "replyToMessageId": null
+        },
+        {
+          "id": "H15_m047",
+          "senderAlias": "Robi",
+          "senderRole": "DRIVER",
+          "text": "348 as konténer, forgalomból kivonva.",
+          "displayTime": "09:09",
+          "replyToMessageId": null
+        }
+      ],
+      "expectations": {
+        "signals": [
+          {
+            "messageId": "H15_m046",
+            "allowed": [
+              "PROBLEM_REPORT",
+              "INFORMATION"
+            ],
+            "required": [
+              "PROBLEM_REPORT"
+            ]
+          },
+          {
+            "messageId": "H15_m047",
+            "allowed": [
+              "STATUS_CHANGE_REPORT",
+              "INFORMATION"
+            ],
+            "required": [
+              "STATUS_CHANGE_REPORT"
+            ]
+          }
+        ],
+        "noActorMessageIds": [
+          "H15_m046",
+          "H15_m047"
+        ],
+        "unresolved": [],
+        "manual": [
+          {
+            "id": "C01",
+            "description": "A 348-as konténer rossz állapotáról szóló jelzés és az utána közölt forgalomból kivonás két eltérő állítás. Nem járműről van szó."
+          },
+          {
+            "id": "C02",
+            "description": "A kivonva személytelen állapotközlés: nem a küldőnek tulajdonított kivonási művelet, és nem végrehajtási jogosultság. A 348-as említés nem ellenőrzött adatbázis-azonosító."
+          }
+        ]
+      }
+    },
+    {
+      "id": "H16",
+      "stratum": "PRONOUN",
+      "source": {
+        "sha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+        "day": "D+4",
+        "locator": "timestamp-records:58,59,60,61,62,63,64,65;primary:59",
+        "previouslySeen": false
+      },
+      "primaryMessageId": "H16_m059",
+      "messages": [
+        {
+          "id": "H16_m058",
+          "senderAlias": "Diszpecser",
+          "senderRole": "OPERATOR",
+          "text": "Holnap 12:00 után \n\nGyuri csere",
+          "displayTime": "15:34",
+          "replyToMessageId": null
+        },
+        {
+          "id": "H16_m059",
+          "senderAlias": "Robi",
+          "senderRole": "DRIVER",
+          "text": "Az ki az és hol😂",
+          "displayTime": "16:04",
+          "replyToMessageId": null
+        },
+        {
+          "id": "H16_m060",
+          "senderAlias": "Gergő",
+          "senderRole": "DRIVER",
+          "text": "Nem tudom!",
+          "displayTime": "16:36",
+          "replyToMessageId": null
+        },
+        {
+          "id": "H16_m061",
+          "senderAlias": "Gergő",
+          "senderRole": "DRIVER",
+          "text": "Talán a Kelet utca ahogy nézem rogyásig Van rakva",
+          "displayTime": "16:37",
+          "replyToMessageId": null
+        },
+        {
+          "id": "H16_m062",
+          "senderAlias": "Zoli",
+          "senderRole": "DRIVER",
+          "text": "Szerintem lehet a gesztenyés ház, a bükkér utcàban!",
+          "displayTime": "17:16",
+          "replyToMessageId": null
+        },
+        {
+          "id": "H16_m063",
+          "senderAlias": "Robi",
+          "senderRole": "DRIVER",
+          "text": "Akkor mindenki tudja 😂😂😂",
+          "displayTime": "17:35",
+          "replyToMessageId": null
+        },
+        {
+          "id": "H16_m064",
+          "senderAlias": "Zoli",
+          "senderRole": "DRIVER",
+          "text": "Csak találgatok!",
+          "displayTime": "17:40",
+          "replyToMessageId": null
+        },
+        {
+          "id": "H16_m065",
+          "senderAlias": "Diszpecser",
+          "senderRole": "OPERATOR",
+          "text": "Igen de csak 12:00h után",
+          "displayTime": "18:54",
+          "replyToMessageId": "H16_m062"
+        }
+      ],
+      "expectations": {
+        "signals": [
+          {
+            "messageId": "H16_m058",
+            "allowed": [
+              "INSTRUCTION",
+              "INFORMATION"
+            ],
+            "required": [
+              "INSTRUCTION"
+            ]
+          },
+          {
+            "messageId": "H16_m059",
+            "allowed": [
+              "QUESTION",
+              "INFORMATION"
+            ],
+            "required": [
+              "QUESTION"
+            ]
+          },
+          {
+            "messageId": "H16_m060",
+            "allowed": [
+              "INFORMATION"
+            ],
+            "required": [
+              "INFORMATION"
+            ]
+          },
+          {
+            "messageId": "H16_m061",
+            "allowed": [
+              "SUGGESTION",
+              "INFORMATION"
+            ],
+            "required": [
+              "SUGGESTION"
+            ]
+          },
+          {
+            "messageId": "H16_m062",
+            "allowed": [
+              "SUGGESTION",
+              "INFORMATION"
+            ],
+            "required": [
+              "SUGGESTION"
+            ]
+          },
+          {
+            "messageId": "H16_m063",
+            "allowed": [
+              "NONE",
+              "INFORMATION"
+            ],
+            "required": [
+              "NONE"
+            ]
+          },
+          {
+            "messageId": "H16_m064",
+            "allowed": [
+              "INFORMATION"
+            ],
+            "required": [
+              "INFORMATION"
+            ]
+          },
+          {
+            "messageId": "H16_m065",
+            "allowed": [
+              "INFORMATION",
+              "INSTRUCTION"
+            ],
+            "required": [
+              "INFORMATION"
+            ]
+          }
+        ],
+        "noActorMessageIds": [],
+        "unresolved": [],
+        "manual": [
+          {
+            "id": "C01",
+            "description": "Az Az ki az és hol kérdés a Gyuri-csere személy/hely hivatkozásának tisztázatlanságát jelzi. A Nem tudom és a két tipp nem biztos helyazonosítás."
+          },
+          {
+            "id": "C02",
+            "description": "A Talán, Szerintem lehet és Csak találgatok bizonytalanságjelölése megmaradjon. Az Akkor mindenki tudja ne váljon tényszerű közös tudás vagy diszpécserutasítás állításává."
+          },
+          {
+            "id": "C03",
+            "description": "A 18:54-es diszpécserválasz a 17:16-os gesztenyés ház/bükkér utcai javaslatot idézi (képen ellenőrzött reply). Ennek megerősítése és a csak 12:00 után korlátozás megmarad; a korábbi találgatás nem visszamenőleg biztos tény."
+          },
+          {
+            "id": "C04",
+            "description": "A holnap relatív idő marad, nem kitalált naptári dátum; külső helyazonosító és végrehajtó nem ismert."
+          }
+        ]
+      }
+    },
+    {
+      "id": "H17",
+      "stratum": "PAYMENT",
+      "source": {
+        "sha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+        "day": "D+5",
+        "locator": "timestamp-records:70;primary:70",
+        "previouslySeen": false
+      },
+      "primaryMessageId": "H17_m070",
+      "messages": [
+        {
+          "id": "H17_m070",
+          "senderAlias": "Zoli",
+          "senderRole": "DRIVER",
+          "text": "45000 Gergő,hétfőn!",
+          "displayTime": "08:01",
+          "replyToMessageId": null
+        }
+      ],
+      "expectations": {
+        "signals": [
+          {
+            "messageId": "H17_m070",
+            "allowed": [
+              "INFORMATION"
+            ],
+            "required": [
+              "INFORMATION"
+            ]
+          }
+        ],
+        "noActorMessageIds": [
+          "H17_m070"
+        ],
+        "unresolved": [],
+        "manual": [
+          {
+            "id": "C01",
+            "description": "45000, Gergő és hétfőn szerepel: nem derül ki, hogy fizetés, átadás vagy terv, ki fizetett kinek és milyen pénznemben. A küldő nem válhat fizetővé."
+          },
+          {
+            "id": "C02",
+            "description": "A hétfőn nem kap kitalált abszolút dátumot; nincs rendelés fizetetté állítása vagy automatikus pénzügyi művelet."
+          }
+        ]
+      }
+    },
+    {
+      "id": "H18",
+      "stratum": "PRONOUN",
+      "source": {
+        "sha256": "9ea5481127cdfd84d0fd1049c3271798979f138c12cd49c250f9a85f827f9c5f",
+        "day": "D+5",
+        "locator": "timestamp-records:71,72,73;primary:72",
+        "previouslySeen": false
+      },
+      "primaryMessageId": "H18_m072",
+      "messages": [
+        {
+          "id": "H18_m071",
+          "senderAlias": "Diszpecser",
+          "senderRole": "OPERATOR",
+          "text": "Holnap 8:00 XIV.Remény krt.12 keran kft vinni",
+          "displayTime": "10:02",
+          "replyToMessageId": null
+        },
+        {
+          "id": "H18_m072",
+          "senderAlias": "Diszpecser",
+          "senderRole": "OPERATOR",
+          "text": "6m3 ami kint van",
+          "displayTime": "10:04",
+          "replyToMessageId": null
+        },
+        {
+          "id": "H18_m073",
+          "senderAlias": "Diszpecser",
+          "senderRole": "OPERATOR",
+          "text": "Eladva",
+          "displayTime": "10:04",
+          "replyToMessageId": null
+        }
+      ],
+      "expectations": {
+        "signals": [
+          {
+            "messageId": "H18_m071",
+            "allowed": [
+              "INSTRUCTION",
+              "INFORMATION"
+            ],
+            "required": [
+              "INSTRUCTION"
+            ]
+          },
+          {
+            "messageId": "H18_m072",
+            "allowed": [
+              "INFORMATION"
+            ],
+            "required": [
+              "INFORMATION"
+            ]
+          },
+          {
+            "messageId": "H18_m073",
+            "allowed": [
+              "STATUS_CHANGE_REPORT",
+              "INFORMATION"
+            ],
+            "required": [
+              "STATUS_CHANGE_REPORT"
+            ]
+          }
+        ],
+        "noActorMessageIds": [
+          "H18_m071",
+          "H18_m072",
+          "H18_m073"
+        ],
+        "unresolved": [
+          {
+            "messageId": "H18_m072",
+            "variants": [
+              "ami kint van"
+            ]
+          }
+        ],
+        "manual": [
+          {
+            "id": "C01",
+            "description": "A holnap 8:00, kivitel, 6m3 és a kint lévő tárgyra utaló ami kint van maradjon meg. A kint pontos helye és az egység azonosítója nincs megalapozva."
+          },
+          {
+            "id": "C02",
+            "description": "Az Eladva állapotközlés nem bizonyítja a kifizetést, kiszállítást vagy bérletlezárást. A méretet/helyhivatkozást nem lehet egy másik konténerhez önkényesen kötni."
+          },
+          {
+            "id": "C03",
+            "description": "A XIV.Remény krt.12 és a keran kft szöveges célmegnevezés; nincs ismert üzleti kötés, végrehajtó vagy abszolút naptári dátum."
+          }
+        ]
+      }
+    }
+  ]
+}
