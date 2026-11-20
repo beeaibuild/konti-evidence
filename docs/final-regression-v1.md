@@ -188,7 +188,7 @@ nincs production hardening. Migration workflow a 21. csomag óta VAN
 (baseline migration + `prisma migrate deploy`); a `db push` csak
 fejlesztői gyorsút.
 Részletek: README "Ismert v1 korlátok" és
-[`handover-checklist-v1.md`](handover-checklist-v1.md) 5. szakasz.
+`handover-checklist-v1.md` (a nyilvános másolatnak nem része) 5. szakasz.
 
 ## Sandbox-megjegyzés
 
